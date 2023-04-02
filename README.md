@@ -1,1 +1,1 @@
-# git-ordonez-tercera-entrega
+# git-ordonez-segunda-pre-entrega-javascript
